@@ -1,4 +1,13 @@
 'use strict';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'md5';
+import 'sha256';
+import 'keccak256';
+import 'ripemd160';
+import 'sha512';
+import 'blowfish';
+import 'aes';
+import 'rsa';
 
 const express = require('express');
 const path = require('path');
