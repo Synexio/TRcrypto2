@@ -4,6 +4,7 @@
   "description": "Node.js on Docker",
   "author": "Alexandre Hannagan",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },

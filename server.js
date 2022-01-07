@@ -1,5 +1,5 @@
 'use strict';
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap';
 import 'md5';
 import 'sha256';
 import 'keccak256';
